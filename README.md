@@ -1,8 +1,7 @@
 # The Monkees Website
 
-This website offers concert bookers, existing fans and potential fans of The Monkees a way to see and hear songs from the bands back catalog and find out about any new material as it becomes available. 
-
-The site provides information and links to buy tickets for the bands upcoming concerts as well as a method of booking the band for private events. Fans can learn about the individual members of The Monkees through the band section and provides links to the bands social media and a newsletter sign-up option.
+This website serves as a hub for concert bookers, fans, and potential fans of The Monkees. It features songs from the band's back catalog, updates on new material, concert ticket information, and booking options for private events. 
+Visitors can learn about band members, follow The Monkees on social media, and sign up for a newsletter.
  
 ## UX
 
@@ -72,25 +71,4 @@ During the development of the site different elements were experimented with e.g
 
 Similiarly as the images I had been provided with were in a variety of different sizes and displayed quite poorly. This led to some tinkering with different methods of displaying the images until finally settling on a customised version of the Bootstrap slideshow component which allows for a consistent presentation.
 
-## Deployment
 
-The website has been deployed to Github pages and can be found at: <https://cianhub.github.io/the-monkees-website/>
-
-## Installation
-
-1. Clone the repository.
-2. Open index.html in your web browser of choice.
-
-## Credits
-
-### Content
-
-- The text for 'Band' section was copied from the [Wikipedia article - The Monkees](https://en.wikipedia.org/wiki/The_Monkees)
-
-### Media
-
-- The media files used in this website were provided by the Code Institute
-
-### Acknowledgements
-
-- I received inspiration for image overlay and block divider from the [Whiskey Drop - Course Project](https://github.com/Code-Institute-Solutions/BootstrapLandingPage)
